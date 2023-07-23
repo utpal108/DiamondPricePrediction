@@ -1,0 +1,5 @@
+env/
+.idea/
+Diamond_Price_Prediction.egg-info/
+dist/
+build/
